@@ -1,0 +1,2 @@
+# SmarterAIspam
+My new repository
